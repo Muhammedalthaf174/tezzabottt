@@ -9,7 +9,7 @@ set_chat_lang: "Great, {} it is from now on!"
 
 
 pm_start_text: |
-   ────「 [{Milna Robot}] 」────
+   ────「 [{Tezza Robot}] 」────
    ʜᴇʏ! {}
    ɪ ᴀᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜp ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ.
    ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -24,7 +24,7 @@ pm_start_text: |
    ➖➖➖➖➖➖➖➖➖➖➖➖➖
    ➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪᴇs ××
    
-grp_start_text: "Hi,Milna Is Here."
+grp_start_text: "Hi,Tezza Is Here."
 
 pm_help_text: |
     • /start: Starts me, can be used to check I'm alive or not.
