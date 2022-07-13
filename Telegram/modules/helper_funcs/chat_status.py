@@ -1,6 +1,6 @@
 from functools import wraps
 
-from tg_bot import (
+from Telegram import (
     DEL_CMDS,
     DEV_USERS,
     SUDO_USERS,
@@ -191,7 +191,7 @@ def whitelist_plus(func):
             return func(update, context, *args, **kwargs)
         else:
             update.effective_message.reply_text(
-                f"You don't have access to use this.\nVisit @YorkTownEagleUnion"
+                f"You don't have access to use this.\nVisit @Tezzasupportgroup"
             )
 
     return is_whitelist_plus_func
